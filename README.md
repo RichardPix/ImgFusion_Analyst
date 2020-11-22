@@ -11,5 +11,4 @@ Currently, this software was only tested for MODIS and Landsat image fusion, and
 Should you have any questions or find any bugs, please contact Bo Huang (bohuang@cuhk.edu.hk) or Yongquan Zhao (yqzhao@link.cuhk.edu.hk) freely. We will be continuing to improve the software. Welcome feedbacks!
 
 Reference for the spaital-temporal image fusion algorithm in ImgFusion Analyst:
-
 Zhao, Y., Huang, B., & Song, H. (2018). A robust adaptive spatial and temporal image fusion model for complex land surface changes. Remote sensing of environment, 208, 42-62. doi:10.1016/j.rse.2018.02.009
