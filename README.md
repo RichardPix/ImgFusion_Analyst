@@ -8,7 +8,7 @@ The installation steps of the software ImgFusion Analyst are as follows:
 
 PS: This AddIn file can only be installed on ArcMap version 10.0 or above.
 
-Currently, this software was only tested for MODIS and Landsat image fusion, and the input images must be registered and clipped to have the same geographic coverage. Moreover, the bands configuration of the input MODIS and Landsat images must be corresponding with each other. For more specific operations, please refer to the image fusion tutorials in the help file. 
+Currently, this software was only tested for MODIS and Landsat image fusion, and the input images must be registered and clipped to have the same geographic coverage. Moreover, the bands configuration of the input MODIS and Landsat images must be corresponding with each other. For more specific operations, please refer to the image fusion tutorials in the help file. Additionally, we attached a set of test data for users to get familiar with ImgFusion Analyst.
 
 Should you have any questions or find any bugs, please contact Bo Huang (bohuang@cuhk.edu.hk) or Yongquan Zhao (yqzhao@link.cuhk.edu.hk) freely. We will be continuing to improve the software. Welcome feedbacks!
 
