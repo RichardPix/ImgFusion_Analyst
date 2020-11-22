@@ -10,5 +10,6 @@ PS: This AddIn file can only be installed on ArcMap version 10.0 or above.
 Currently, this software was only tested for MODIS and Landsat image fusion, and the input images must be registered and clipped to have the same geographic coverage. Moreover, the bands configuration of the input MODIS and Landsat images must be corresponding with each other. For more specific operations, please refer to the image fusion tutorials in the help file. 
 Should you have any questions or find any bugs, please contact Bo Huang (bohuang@cuhk.edu.hk) or Yongquan Zhao (yqzhao@link.cuhk.edu.hk) freely. We will be continuing to improve the software. Welcome feedbacks!
 
-Reference for the spaital-temporal image fusion algorithm in ImgFusion Analyst:
-Zhao, Y., Huang, B., & Song, H. (2018). A robust adaptive spatial and temporal image fusion model for complex land surface changes. Remote sensing of environment, 208, 42-62. doi:10.1016/j.rse.2018.02.009
+References about the spaital-temporal image fusion algorithm in ImgFusion Analyst:
+1. Zhao, Y., Huang, B., & Song, H. (2018). A robust adaptive spatial and temporal image fusion model for complex land surface changes. Remote sensing of environment, 208, 42-62. doi:10.1016/j.rse.2018.02.009
+2. Zhao, Y., Liu, D., & Wei, X. (2020). Monitoring cyanobacterial harmful algal blooms at high spatiotemporal resolution by fusing Landsat and MODIS imagery. Environmental Advances, 2, 100008. doi:10.1016/j.envadv.2020.100008
